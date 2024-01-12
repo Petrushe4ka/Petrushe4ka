@@ -1,0 +1,12 @@
+- 👋 Hi, I’m Artem
+-  
+- 👀 I’m interested in C#
+- 
+- 🌱 I’m currently learning C# programming language
+- 
+- 📫 How to contact me?
+- Via discord: petrushe4ka2.0
+- 
+- 😄 Pronouns: He/him
+- 
+- ⚡ Fun fact: I'm tired 24/7
